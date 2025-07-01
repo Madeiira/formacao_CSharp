@@ -1,2 +1,4 @@
-Projeto C# é uma solução
-contendo um arquivo .sln (solução)
+Para utilizar namespaces utiliza o "using"
+
+O "entry point" é onde o programa começa
+

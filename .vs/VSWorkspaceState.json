@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\Projetos",
+    "\\Projetos\\PrimeiroProjeto",
+    "\\Projetos\\PrimeiroProjeto\\PrimeiroProjeto"
   ],
+  "SelectedNode": "\\Projetos\\PrimeiroProjeto\\PrimeiroProjeto\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
